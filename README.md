@@ -15,6 +15,7 @@ This is a two-player game where each player controls a paddle using the arrow ke
 6) To exit the game, simply close the game window.
 ### Images
 ![](/Images/PinPongTurtle.png "")
-![](/Pictures/PingPongTurtle1.png "")
+
+<!-- ![](/Pictures/PingPongTurtle1.png "") -->
 ### Conclusion
 The Ping Pong game implemented with Python Turtle is a fun and simple two-player game that demonstrates the power of the Python programming language and the Turtle graphics library. With a few improvements and customization options, it could be a great addition to any game library.
